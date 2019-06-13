@@ -1,0 +1,34 @@
+doctype doctype
+html(lang='en')
+    head
+        meta(charset='utf-8')
+        title Exemplo Pug
+        style
+            include style.css
+    body
+        h2 Oie
+    ul
+        - for(var x = 0; x < 3; x++)
+            li Banana
+
+    - var friends = 0
+    if friends == 0
+        h2.texto Ainda nao saiu desse Computador Anormal !!!
+    else
+        h2 Voce tem #{friends} Amigos
+
+    case friends
+        when 0
+            p sai desse computador e vai conhecer pessoas
+        when 1
+            p voce tem #{friends} amigos
+        default
+            p voce tem #{friends} amigos
+    
+    - var n = 0
+    ul
+        while n < 10
+            li= n++
+    
+
+    a(href="/random") random

@@ -1,0 +1,14 @@
+doctype doctype
+html(lang='en')
+    head
+        meta(charset='utf-8')
+        title Random
+    body
+    h2 Digite o numero max para random
+    form(action="/random" method="GET")
+        p max
+        input(type="text",name="random") 
+        input(type="submit",value="Gerar") 
+    
+    
+    h2 O numero gerado é #{random}
