@@ -1,0 +1,139 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+table, tr, td, th {
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 40%;
+	height: 30%;
+}
+
+
+a{
+	color: black;
+	margin-left: 4%;
+	display: inline-block;
+	text-decoration:none;
+	padding: 1%;
+	
+}
+
+.nav a{
+	color: white;
+}
+
+.nav{
+	margin: 0;
+	background-color: black;
+}
+
+.links{
+	margin-top: 20%;
+	margin-left: 30%;
+}
+
+.links a{
+	border: 1px solid black;
+	padding: 7%;
+	background-color: black;
+	color: white;
+	font-size: 3em;
+	border-radius: 10px;
+}
+
+.mon-table{
+	margin-top: 5%;
+	text-align: center;
+	margin-left: 30%;
+}
+
+a:hover{
+	text-decoration-line: underline;
+}
+
+input{
+	display: block;
+	padding: .2em;
+    width: 95%;
+    font-size: 1em;
+    margin-left: 2%;
+}
+
+.form-mon{
+	margin-top: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+.btn-mon{
+	margin-top: 1%;
+	margin-left: 30%;
+	margin-bottom: 1%;
+	color: white;
+	background-color: black;
+	font-size: 1em;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 30%;
+  
+ 
+}
+
+.main-form{
+	margin-left: 10%;
+
+}
+
+
+h4{
+	margin-top: 5%;
+	margin-left: 42%;
+	margin-right: 41%;
+	padding: 1.5%;
+	border:1px solid black;
+	border-radius: 10px;
+	background-color: black;
+	color: white;
+	font-size: 1.5em;
+}
+
+.slt-mon{
+	margin-top: .5%;
+	margin-bottom: .6%;
+	margin-left: 5%;
+}
+
+.crs-table{
+	margin-top: 5%;
+	text-align: center;
+	margin-left: 29%;
+}
+
+.main-form-crs{
+	margin-right: 25%;
+	margin-left: 20%;
+	margin-top: 1%;
+
+}
+
+.info-table{
+	margin-top: 10%;
+	margin-left: 25%;
+	text-align: center;
+}
+
+
+.slt-mon{
+	width: 90%;
+	padding: .5%;
+}
+
+.ipt{
+	margin-top: 1%;
+}
