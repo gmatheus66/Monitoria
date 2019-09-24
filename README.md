@@ -14,6 +14,6 @@ https://docs.google.com/presentation/d/1mfw-OjAL79PyPWTqfVX5oV4MJmHDYwyI4LDMpuRL
   
   Professor: Allan Lima - allan.lima@igarassu.ifpe.edu.br
   
-  Monitores:  Matheus Gonçalves, Guilherme Lira
+  Monitores:  Matheus Gonçalves, Guilherme Lira e Renisson Silva
  
   Código de Domínio Público, sinta-se livre para usá-lo, modificá-lo e redistribuí-lo.
